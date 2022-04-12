@@ -1,0 +1,10 @@
+.order-summary{
+    position: sticky;
+    top: 0;
+}
+.summary-title{
+    padding: 28px 45px 50px 45px;
+}
+.summary-info{
+    padding-left: 23px;
+}
